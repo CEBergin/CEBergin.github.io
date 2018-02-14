@@ -1,3 +1,35 @@
+html{
+    background-color:#100f0e;
+    
+
+}
+
+
 body {
-    color: blue;
+    color: #CCCCCC;
+}
+
+#name {
+font-size:5em;
+font-family: serif;
+font-weight: bold;
+text-align: left;
+margin-bottom:-1%;
+}
+#title {
+font-size:2em;
+font-family: serif;
+margin-top:-1%;
+text-align: left;
+
+}
+
+#contactInfo {
+    position:absolute;
+    right:0;
+    bottom:0;
+    left:0;
+    padding:1rem;
+    text-align: center;
+    font-size:1em;
 }
