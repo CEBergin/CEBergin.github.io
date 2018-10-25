@@ -12,7 +12,14 @@ body {
     margin-top:0.1em ;
     margin-bottom:0.1em ;
     padding:1em; 
+    height:100%;
+    
 }
+.Site {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+ }
 
 #name {
 font-size:5em;
@@ -48,18 +55,22 @@ text-align: left;
     line-height:130%;
     margin-bottom:5%;
     width:20em;
+    
 }
 
+.Site-content {
+    flex: 1;
+
+  }
 
 
-#contactInfo {
-    position:fixed;
+.footer {
     right:0;
     bottom:0;
     left:0;
     padding:1rem;
     text-align: center;
-    font-size:1em;
+    height: 6rem;
 }
 
 a:link {
