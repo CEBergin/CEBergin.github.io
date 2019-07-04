@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
 ---
 
 Welcome, this is my Portfolio site, designed to show off what I've learned in the last two years of education at Camosun College.
