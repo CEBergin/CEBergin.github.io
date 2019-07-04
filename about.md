@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome, this is my Portfolio site, designed to show off what I've learned in the last two years of education at Camosun College.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I feel my education has given me a great head start in multiple fields. Courses in Java have left me with a strong foundation for all forms of programming. The multiple System Administration classes have shown me how to work and problem solve in Windows and Linux based Operating Systems. I have experience in HTML, CSS, Javascript and React (as well as the quick Jekyll page). I've used both Oracle and MongoDB Databases and understand their seperate values. In addition my capstone project had a large focus on technical writing and documentation. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+For some images and code snippets of my projects, please check out my Projects page.

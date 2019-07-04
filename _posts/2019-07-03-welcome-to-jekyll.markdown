@@ -1,25 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "About Page Text"
 date:   2019-07-03 16:09:56 -0700
-categories: jekyll update
+categories: intro post
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Welcome, this is my Portfolio site, designed to show off what I've learned in the last two years of education at Camosun College.
 
-Jekyll also offers powerful support for code snippets:
+I feel my education has given me a great head start in multiple fields. Courses in Java have left me with a strong foundation for all forms of programming. The multiple System Administration classes have shown me how to work and problem solve in Windows and Linux based Operating Systems. I have experience in HTML, CSS, Javascript and React (as well as the quick Jekyll page). I've used both Oracle and MongoDB Databases and understand their seperate values. In addition my capstone project had a large focus on technical writing and documentation. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+For some images and code snippets of my projects, please check out my Projects page.
