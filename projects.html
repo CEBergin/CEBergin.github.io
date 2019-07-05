@@ -4,24 +4,28 @@ title: Projects
 ---
 <h1>Projects</h1>
 
-    <div class="row">
-       
-  
-  {% for project in site.projects %}
-  <div class="column">
-        <div class="card">
-            <img src="{{ project.image }}" alt="{{ project.full_name}}" style="width:100%">
-            
-            <div class="container">
-              <h4><b><a href="{{ project.url }} ">{{ project.full_name }}</a></b></h4>
-              <p>{{ project.shortDesc }}</p>
-            </div>
-          </div> 
 
+       
+<div class="centered">
+ 
+ <section class="cards">
+  {% for project in site.projects %}
+ 
+        <article class="card">
+            
+            
+           
+              <a href="{{ project.url }} "><img src="{{ project.image }}" alt="{{ project.full_name}}" >{{ project.full_name }}</a>
+              {{ project.shortDesc }}
+          </article>         
+
+
+ 
 
       
-        </div>
-  
+          
+ 
   {% endfor %}
-
+     
+</section>
 </div>
