@@ -1,7 +1,7 @@
 ---
 full_name: Documentation of Development
 short_name: Dev Docs
-image: assets/images/Documentationdarkgrey600x600.PNG
+image: assets/images/Documentationdarkgrey600x600.png
 shortDesc: Efficient documentation is essential for ensuring complete project understanding.
 
 
