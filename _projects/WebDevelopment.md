@@ -1,7 +1,7 @@
 ---
 full_name: React Web Development
 short_name: React
-image: assets/images/SMSAMain.png
+image: assets/images/SMSAMain.PNG
 shortDesc: Developing in React gave me an apprecation of APIs as well as
 
 
