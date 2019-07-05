@@ -1,7 +1,7 @@
 ---
 full_name: Social Media Support Application
 short_name: SMSA
-image: assets/images/SMSAMain.PNG
+image: assets/images/SMSAMaindarkgrey600x600.PNG
 shortDesc: An application designed to save time by automating posting to Social Media.
 
 

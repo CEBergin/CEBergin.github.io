@@ -1,7 +1,7 @@
 ---
 full_name: Mobile Networked Scorekeeper Application
 short_name: Scorekeeping App
-image: assets/images/ScoreKeeperPlaceholder.png
+image: assets/images/ScoreKeeperPlaceholderdarkgrey600x600.png
 shortDesc: A scorekeeping application for iOS that transmitted information over the network to other users via sockets.
 
 ---

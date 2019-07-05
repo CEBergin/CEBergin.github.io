@@ -1,7 +1,7 @@
 ---
 full_name: Tetris
 short_name: Tetris
-image: assets/images/Tetris.PNG
+image: assets/images/Tetrisdarkgrey600x600.PNG
 shortDesc: I developed Tetris as a school project to demonstrate my understanding of C++
 
 
