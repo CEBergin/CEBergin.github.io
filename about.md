@@ -3,8 +3,10 @@ layout: default
 title: About
 ---
 
-Welcome, this is my Portfolio site, designed to show off what I've learned in the last two years of education at Camosun College.
+Hi, I'm Cody Bergin, I'm a recent graduate of Camosun College's Information and Computer Systems Technology program looking for working Victoria BC. 
 
-I feel my education has given me a great head start in multiple fields. Courses in Java have left me with a strong foundation for all forms of programming. The multiple System Administration classes have shown me how to work and problem solve in Windows and Linux based Operating Systems. I have experience in HTML, CSS, Javascript and React (as well as the quick Jekyll page). I've used both Oracle and MongoDB Databases and understand their seperate values. In addition my capstone project had a large focus on technical writing and documentation. 
+My interests in Software Development lend towards the Back-End. I enjoy working with, building or maintaining databases. I like setting up APIs or serving data as requested. 
 
-For some images and code snippets of my projects, please check out my Projects page.
+This means I'm also happy gathering requirements, sitting down with clients and/or business stakeholders and figuring exactly what they need or want before mapping out a plan to action.
+
+Of course while I may prefer a role as a back-end developer, until I have more professional experience I'd be happy to try anything in the tech industry just to see what it's like.
