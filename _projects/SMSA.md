@@ -9,7 +9,7 @@ shortDesc: An application designed to save time by automating posting to Social 
 
 The Social Media Support application is the largest application I have worked on. It is designed to allow users to more easily share large amounts of already existing data with the public via Twitter. 
 
-The application takes data from existing excel files, translates the contents into human readable texts and stores it on a MongoDB database. Then when the application is run, a scheduler runs in the background which knows when a post should be sent to Twitter. A front end GUI was created by my team which allows users to edit information about the post including when a file will be posted, any any other information.
+The application takes data from existing excel files, translates the contents into human readable texts and stores it on a MongoDB database. Then when the application is run, a scheduler runs in the background which knows when a post should be sent to Twitter. A front end GUI was created by my team which allows users to edit information about the post including when a file will be posted, and any other information.
 
 There are five main facets to the program which I will cover in order, with code samples when necessary for illustration or as a sample of my work. The first is the Post Builder.
 
@@ -89,7 +89,7 @@ x = postOrderCollection.insert_one(postOrderDict)
 i += 1
 {% endhighlight %}
 
-All of this was behind the scenes, all this event gives us is a nicely populated MongoDB database to pull from later on, which the Graphical User Interface will display to our users.
+As this was behind the scenes, all this function gives us is a nicely populated MongoDB database to pull from later on, which the Graphical User Interface will display to our users.
 
 ![MongoDB Post Build](/assets/images/MongoDBPostBuild.PNG){:class="img-responsive"}
 
