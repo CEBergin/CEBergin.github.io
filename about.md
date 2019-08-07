@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-Hi, I'm Cody Bergin, I'm a recent graduate of Camosun College's Information and Computer Systems Technology program looking for working Victoria BC. 
+Hi, I'm Cody Bergin, I'm a recent graduate of Camosun College's Information and Computer Systems Technology program looking for work in Victoria BC. 
 
 My interests in Software Development lean towards the Back-End. I enjoy working with, building or maintaining databases. I like setting up APIs or serving data as requested. 
 
